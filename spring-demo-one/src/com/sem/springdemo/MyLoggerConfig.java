@@ -21,7 +21,7 @@ public class MyLoggerConfig {
     }
 
     public void initLogger() {
-
+        // comment
         // parse levels
         Level rootLevel = Level.parse(rootLoggerLevel);
         Level printedLevel = Level.parse(printedLoggerLevel);
