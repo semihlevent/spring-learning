@@ -5,6 +5,9 @@
 		<hr>
 		<a href="hello/showForm">click to navigate to helloworld form</a>
 		<br><br>
-		<a href="student/showForm">click to navigate to student form</a>
+		<a href="student/showForm">Student form</a>
+		
+		<br><br>
+		<a href="customer/showForm">Customer form</a>
 	</body>
 </html>
